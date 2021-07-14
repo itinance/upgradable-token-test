@@ -1,0 +1,9 @@
+.env
+.env.ropsten
+node_modules
+cache
+artifacts
+typechain/*
+yarn.lock
+
+demo/
